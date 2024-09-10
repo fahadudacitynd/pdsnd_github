@@ -11,10 +11,10 @@ I wrote a script that takes in raw input to create an interactive experience in 
 ### Files used
 chicago.csv
 new_york_city.csv
-washington.csv 
+washington.csv
 
-### Additional Requirements 
-Posting my work in GitHub 
+### Visit My GitHub 
+fahadudacitynd 
 
-### For More Info 
-Check Udacity webpage 
+### Reference 
+www.udacity.com
