@@ -15,3 +15,6 @@ washington.csv
 
 ### Additional Requirements 
 Posting my work in GitHub 
+
+### For More Info 
+Check Udacity webpage 
