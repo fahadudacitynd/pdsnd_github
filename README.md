@@ -1,4 +1,4 @@
-### Date created
+### Date created 
 The project was created on 09 Sep 2024 for fulfilling the requirements of Udacity ND 
 
 ### Project Title
